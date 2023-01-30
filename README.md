@@ -1,2 +1,2 @@
 # first-repositry
-Readme編集の練習
+Readme編集の練習です。
